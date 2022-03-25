@@ -1,3 +1,4 @@
+# these functions are called in main.py
 print("This is a calculator powered by TMath Module by Trevlin Morris")
 print("Avaliable commands are:\nDiv\nMult\nAdd\nSub\nRound\nCompare")
 def Div():
